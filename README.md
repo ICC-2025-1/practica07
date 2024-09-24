@@ -1,7 +1,7 @@
 # Introducción a las Ciencias de la Computación
 ## Práctica07
 El objetivo de esta práctica es que el alumno ejercite la de aplicación de instrucciones
-de bucles de un programa y refuerze sus conocimientos en sentencias de control de flujo.
+de control de un programa y refuerze sus conocimientos en sentencias de control de flujo.
 
 ## Equipo #(Numero) 
 (Nombre1) (ApellidoPaterno1) (ApellidoMaterno1)
